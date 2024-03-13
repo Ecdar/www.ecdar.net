@@ -16,6 +16,7 @@ Developers that have contributed to the project over time
   * [Thorulf Neustrup](https://github.com/thorulf4)
   * [Ulrik Nyman](https://github.com/ulriknyman)
   * [Niels Frederik Sinding Vistisen](https://github.com/Nielswps)
+  * [Thomas Krogh Lohse](https://github.com/t-lohse)
 
 First version of j-Ecdar: [Master thesis 2018-2019](https://projekter.aau.dk/projekter/da/studentthesis/jecdar-02--model-checking-refinement-relations-for-timed-io-automata(ac3fdc2b-a7c5-45a4-b63c-2ad817692ea0).html)
 
